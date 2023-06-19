@@ -1,6 +1,6 @@
 import pytest
 
-from grabrun.skeleton import fib, main
+from grabrun.main import fib, main
 
 __author__ = "Taylor Monacelli"
 __copyright__ = "Taylor Monacelli"
